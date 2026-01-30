@@ -12,6 +12,18 @@ The API allows registered users to:
 
 ---
 
+## 🧪 API Testing
+
+All API endpoints were tested using **Postman**.
+
+- The Postman collection is available in the repository at: `postman/CredPalBackend.postman_collection.json`
+- To use it:
+  1. Open Postman.
+  2. Click **Import → File** and select the JSON file.
+  3. Make sure your server is running locally (`http://localhost:5000`).
+  4. Run the requests in the collection to test the API.
+
+
 ## 🛠️ Tech Stack
 - Node.js
 - Express
