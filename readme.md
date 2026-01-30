@@ -24,6 +24,7 @@ The API allows registered users to:
 ---
 
 ## 📁 Project Structure
+
 src/
 ├── config/
 │ └── db.ts
@@ -74,10 +75,11 @@ src/
 ---
 
 ## ⚙️ Environment Variables
-Create a `.env` file in the project root:
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+
+- Create a `.env` file in the project root:
+- PORT=5000
+- MONGO_URI=your_mongodb_connection_string
+- JWT_SECRET=your_jwt_secret
 
 
 ---
